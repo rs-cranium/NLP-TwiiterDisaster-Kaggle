@@ -8,7 +8,7 @@ from azureml.core.webservice import AciWebservice
 from azureml.core.conda_dependencies import CondaDependencies
 print(azureml.core.VERSION)
 
-subscription_id="your id
+subscription_id="your id"
 resource_group="your resource grpop"
 workspace_name="your workspace"
 compute="your compute name"
